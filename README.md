@@ -19,7 +19,7 @@ Sou um desenvolvedor em constante aprendizado, com o objetivo de construir uma b
 ### 💻 Main Stack
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,angular,ts,js,html,css,mysql,postgres,postman,figma,git" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,angular,mysql,postgres,postman,git" />
   </a>
 </div>
 
