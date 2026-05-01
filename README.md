@@ -1,19 +1,20 @@
 ## Olá, eu sou o Rodrigo Morello Junior 👋
-**Desenvolvedor Full Stack em Evolução | Focado em C# & .NET**
+**Desenvolvedor Full Stack | Focado em C# & .NET**
 
-Sou um desenvolvedor Junior em constante aprendizado, com o objetivo de me tornar um especialista no ecossistema Microsoft. Atualmente, foco em construir aplicações web modernas, seguras e performáticas, priorizando sempre a qualidade do código e as boas práticas de arquitetura.
-
----
-
-### 🚀 No que estou focando agora
-*   👨‍💻 Desenvolvendo o **AspNetPro.Blog**: Explorando o **.NET 10** e **Razor Pages** para criar uma plataforma de conteúdo robusta.
-*   ☁️ Estudando **Azure**: Aprendendo sobre deploy, gestão de recursos e serviços em nuvem.
-*   🛠️ Persistência de Dados: Aprofundando em **Entity Framework Core** e a performance do **Dapper**.
-*   ✉️ Integrações: Implementando serviços externos como a API do **Mailgun**.
+Sou um desenvolvedor em constante aprendizado, com o objetivo de me tornar alguém que possa instruir outras pessoas. <br>
+Atualmente, foco em construir aplicações web modernas, seguras e performáticas, priorizando sempre a qualidade do código e as boas práticas de arquitetura.
 
 ---
 
-### 💻 Minhas Ferramentas de Estudo (Main Stack)
+### No que estou focando agora
+*  Desenvolvendo o **AspNetPro.Blog**: Explorando o **.NET 10** e **Razor Pages** para criar uma plataforma de conteúdo robusta.
+*  Estudando **Azure**: Aprendendo sobre deploy, gestão de recursos e serviços em nuvem.
+*  Persistência de Dados: Aprofundando em **Entity Framework Core** e a performance do **Dapper**.
+*  Integrações: Implementando serviços externos como a API do **Mailgun**.
+
+---
+
+### Main Stack
 
 **Back-end & Core**  
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Razor Pages" /> <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
@@ -24,10 +25,11 @@ Sou um desenvolvedor Junior em constante aprendizado, com o objetivo de me torna
 
 ---
 
-### 📚 No Radar (O que estou aprendendo)
-*   🅰️ **Angular:** Evoluindo no front-end para criar interfaces dinâmicas e SPAs.
-*   📱 **Mobile Development:** Explorando o ecossistema mobile (foco em **.NET MAUI**).
-*   🏗️ **Arquitetura:** Estudando Design Patterns e Clean Code para elevar o nível das minhas entregas.
+### O que estou aprendendo
+*   **Angular:** Evoluindo no front-end para criar interfaces dinâmicas e SPAs.
+*   **ASP.NET Core & .NET 10:** Aprofundando no ecossistema C#, explorando novas APIs e recursos avançados para o back-end.
+*   **Arquitetura:** Estudando Design Patterns e Clean Code para elevar o nível das minhas entregas.
+*   **Mobile Development:** Pretendo estudar em .NET MAUI, para o desenvolvimento de aplicativos mobile.
 
 ---
 
