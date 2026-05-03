@@ -8,7 +8,7 @@ Sou um desenvolvedor em constante aprendizado, com o objetivo de construir uma b
 
 ---
 
-### 🚀 No que estou focando agora
+### No que estou focando agora
 *   👨‍💻 Desenvolvendo o **AspNetPro.Blog**: Explorando o **.NET 10** e **Razor Pages** para criar uma plataforma de conteúdo robusta.
 *   ☁️ Estudando **Azure**: Aprendendo sobre deploy, gestão de recursos e serviços em nuvem.
 *   🛠️ Persistência de Dados: Aprofundando em **Entity Framework Core** e a performance do **Dapper**.
@@ -25,7 +25,7 @@ Sou um desenvolvedor em constante aprendizado, com o objetivo de construir uma b
 
 ---
 
-### 📚 O que estou aprendendo
+### O que estou aprendendo
 *   🅰️ **Angular:** Evoluindo no front-end para criar interfaces dinâmicas e SPAs.
 *   🚀 **ASP.NET Core & .NET 10:** Aprofundando no ecossistema C#, explorando novas APIs e recursos avançados.
 *   🏗️ **Arquitetura:** Estudando Design Patterns, SOLID e Clean Code.
@@ -33,13 +33,9 @@ Sou um desenvolvedor em constante aprendizado, com o objetivo de construir uma b
 
 ---
 
-### 📊 Estatísticas e Atividade
+### Estatísticas e Atividade
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigomorello6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigomorello6&theme=dracula" />
-</p>
-
-<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomorello6&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
